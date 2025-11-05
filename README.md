@@ -115,7 +115,7 @@ Great for demonstrating applied data skills for finance, analytics, or data-scie
 
 ## 👨‍💻 Author
 **Luke Brown**  
-📫 [Your Email or LinkedIn link here]  
+📫 [https://www.linkedin.com/in/luke-jesse-brown-43b42828b] 
 💼 [https://github.com/lukejbbrown](https://github.com/lukejbbrown)
 
 ---
